@@ -864,7 +864,7 @@ if uploaded_file is not None:
                         cornerradius=6,
                     ),
                 ))
-                fig_ws.update_layout(title="Sales by Marketplace")
+                fig_ws.update_layout(title="Sales by Marketplace till Apr 2026")
                 fig_ws = _dark_layout(
                     fig_ws, "Marketplace", "Quantity Sold",
                     extra_xaxis={'categoryorder': 'array',
@@ -906,7 +906,7 @@ if uploaded_file is not None:
                         cornerradius=6,
                     ),
                 ))
-                fig_ct.update_layout(title="Sales by Country")
+                fig_ct.update_layout(title="Sales by Country till Apr 2026")
                 fig_ct = _dark_layout(
                     fig_ct, "Country", "Quantity Sold",
                     extra_xaxis={
