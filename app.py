@@ -486,7 +486,7 @@ def render_gold_table(df, title, height=420):
 # ── Report title ───────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="report-title">
-    ◈ &nbsp; Dubai Sales Report &nbsp; ◈
+    ◈ &nbsp; Middle East Sales Report &nbsp; ◈
     <div class="report-subtitle">Comprehensive Sales Analytics Dashboard · Apr 2026</div>
 </div>
 """, unsafe_allow_html=True)
