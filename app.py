@@ -7,7 +7,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 st.set_page_config(
-    page_title="Dubai Sales Report",
+    page_title="Middle East Sales Report",
     layout="wide",
     page_icon="🇦🇪",
     initial_sidebar_state="expanded"
